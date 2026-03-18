@@ -200,7 +200,7 @@ F1 = 2 * (Precisão * Recall) / (Precisão + Recall)
 - [Pandas Docs](https://pandas.pydata.org/docs/)
 - [Scikit-learn Docs](https://scikit-learn.org/stable/)
 - [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
-- [Seaborn Examples](https://seaborn.pydata.org/examples.html)
+- [Seaborn Examples](https://seaborn.pydata.org)
 
 ---
 
